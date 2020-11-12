@@ -1,1 +1,2 @@
-Программа имеет список людей и их предпочтений. В разделе GOAL можно посомтреть кому что нравится с помощью запросов.
+
+The program has a list of people and their film preferences. In the GOAL section, you can see what you like using queries.
